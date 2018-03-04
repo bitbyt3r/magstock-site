@@ -1,5 +1,5 @@
 ---
-title: Will the running water be hot?
+title: Is there WiFi?
 weight: 7
 ---
 It's slow, but it's there. You may want to use cell phone internet, but even that's a little iffy. You should be able to at least check your email and facebook!
