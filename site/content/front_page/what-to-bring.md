@@ -1,6 +1,6 @@
 ---
 title: What To Bring!
-anchor: whatToBring
+anchor: what-to-bring
 weight: '10'
 ---
 #### Camping Essentials
