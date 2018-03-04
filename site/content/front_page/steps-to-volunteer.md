@@ -6,7 +6,7 @@ weight: '25'
 
 #### Step 1: Begin the registration process
 
-We'll need to begin collecting your information, so go to the [pre-registration](https://magstock7.uber.magfest.org/uber/preregistration/form) page where you can begin entering your basic details.
+We'll need to begin collecting your information, so go to the [pre-registration](https://magstock8.uber.magfest.org/uber/preregistration/form) page where you can begin entering your basic details.
 
 #### Step 2: Check the "Want to Volunteer?" checkbox
 
