@@ -18,9 +18,5 @@ icons:
   - icon: amazon
     title: Amazon Smile
     url: 'http://smile.amazon.com/ch/46-1086258'
-  - icon: paypal
-    title: PayPal
-    url: >-
-      https://www.paypal-donations.com/pp-charity/web.us/charity_i.jsp?s=3%C3%A2%C2%80%C2%8B%C3%A2%C2%80%C2%8B%20%C3%A2%C2%80%C2%8B
 ---
 
