@@ -24,24 +24,24 @@ title = "MAGStock 8"
 [[menu.main]]
     name = "What To Bring"
     url = "/#what-to-bring"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Rules"
     url = "/#rules-n-guidelines"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "Volunteer"
     url = "/#volunteer"
-    weight = 5
+    weight = 7
 
 [[menu.main]]
     name = "FAQ"
     url = "/faq"
-    weight = 6
+    weight = 8
 
 [[menu.main]]
     name = "Community"
-    url = "https://www.facebook.com/events/183014812171586/"
-    weight = 7
+    url = "https://www.facebook.com/events/729104890621064/"
+    weight = 9
