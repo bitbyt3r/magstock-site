@@ -1,4 +1,0 @@
----
-title: Visualists
-url: /visualists
----
