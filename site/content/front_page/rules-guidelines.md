@@ -1,6 +1,6 @@
 ---
 title: Rules & Guidelines
-anchor: rules
+anchor: rules-n-guidelines
 weight: '15'
 ---
 1. Use common sense and be courteous. Also, be social! You’re here to hang out and meet people, so introduce yourself to others. If you see someone struggling, help them out.
