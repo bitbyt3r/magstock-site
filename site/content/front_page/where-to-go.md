@@ -1,6 +1,6 @@
 ---
 title: Where To Go!
-anchor: whereToGo
+anchor: where-to-go
 weight: '2'
 ---
 {{< div class="center-align" >}}
