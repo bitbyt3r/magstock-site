@@ -1,7 +1,7 @@
 ---
 title: Where To Go!
 anchor: whereToGo
-weight: '1'
+weight: '2'
 ---
 {{< div class="center-align" >}}
 #### Follow this map!
