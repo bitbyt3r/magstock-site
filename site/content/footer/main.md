@@ -5,7 +5,7 @@ slogan: Made With Love By Dare
 icons:
   - icon: facebook
     title: Facebook
-    url: 'https://facebook.com/magfest'
+    url: 'https://www.facebook.com/events/729104890621064/'
   - icon: twitter
     title: Twitter
     url: 'https://twitter.com/magfest'
