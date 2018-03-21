@@ -3,45 +3,40 @@ languageCode = "en-us"
 title = "MAGStock 8"
 
 [params]
-  description = "MAGWest is a 3-day festival celebrating video games, video game music, and the culture of people who create them."
+  description = "MAGStock is a 4-day outdoor festival celebrating camping, video games, and video game music."
   date = "June 7-10, 2018"
+
+[[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 1
 
 [[menu.main]]
     name = "Tickets"
     url = "/#tickets"
-    weight = 3
-
-#[[menu.main]]
-#    name = "Music"
-#    url = "/"
-#    weight = 2
+    weight = 2
 
 [[menu.main]]
-    name = "Where To Go"
-    url = "/#where-to-go"
+    name = "Music"
+    url = "/music"
+    weight = 3
+
+[[menu.main]]
+    name = "Visualists"
+    url = "/visualists"
     weight = 4
 
 [[menu.main]]
-    name = "What To Bring"
-    url = "/#what-to-bring"
-    weight = 5
-
-[[menu.main]]
     name = "Rules"
-    url = "/#rules-n-guidelines"
-    weight = 6
-
-[[menu.main]]
-    name = "Volunteer"
-    url = "/#volunteer"
-    weight = 7
+    url = "/rules-n-guidelines"
+    weight = 5
 
 [[menu.main]]
     name = "FAQ"
     url = "/faq"
-    weight = 8
-
+    weight = 6
+    
 [[menu.main]]
-    name = "Community"
-    url = "https://www.facebook.com/events/729104890621064/"
-    weight = 9
+    name = "Volunteer"
+    url = "/#volunteer"
+    weight = 7
