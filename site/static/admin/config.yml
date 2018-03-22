@@ -8,6 +8,14 @@ public_folder: "img/uploads"
 
 collections: # A list of collections the CMS should be able to edit
 
+  - name: "index"
+    label: "Homepage"
+    folder: "site/content"
+    create: false
+    fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "URL", name: "url", widget: "string"}
   - name: "events"
     label: "Events"
     folder: "site/content/events"
@@ -26,9 +34,28 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Service URL", name: "url", widget: "string", required: false}
           - {label: "Service Icon Available Here: http://fontawesome.io/icons/", name: "icon", widget: "string", required: false, default: "compass"}
 
-  - name: "bands"
-    label: "Bands"
-    folder: "site/content/bands"
+  - name: "front_page"
+    label: "Front Page Sections"
+    folder: "site/content/front_page"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Anchor", name: "anchor", widget: "string", required: false}
+      - {label: "Weight", name: "weight", widget: "number", default: 50}
+      
+  - name: "pages"
+    label: "Pages"
+    folder: "site/content/pages"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "URL", name: "url", widget: "string"}
+
+  - name: "music"
+    label: "Music"
+    folder: "site/content/music"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -71,34 +98,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Weight", name: "weight", widget: "number", default: 50, required: false}
-
-  - name: "pages"
-    label: "Pages"
-    folder: "site/content/pages"
-    create: true
-    fields:
-      - {label: "Title", name: "title", widget: "string", tagname: "h1", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "URL", name: "url", widget: "string"}
-
-  - name: "front_page"
-    label: "Front Page Sections"
-    folder: "site/content/front_page"
-    create: true
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Anchor", name: "anchor", widget: "string", required: false}
-      - {label: "Weight", name: "weight", widget: "number", default: 50}
-
-  - name: "index"
-    label: "Homepage"
-    folder: "site/content"
-    create: false
-    fields:
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "URL", name: "url", widget: "string"}
 
   - name: "sidebar"
     label: "Sidebar Items"
