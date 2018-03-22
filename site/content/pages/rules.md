@@ -1,5 +1,5 @@
 ---
 title: Rules
-url: 'https://magstock.org/rules-n-guidelines'
+url: /rules-n-guidelines
 ---
 adasdasd
