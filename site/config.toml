@@ -23,7 +23,7 @@ title = "MAGStock 8"
 
 [[menu.main]]
     name = "Visualists"
-    url = "/visualists"
+    url = "/#visualists"
     weight = 4
 
 [[menu.main]]
