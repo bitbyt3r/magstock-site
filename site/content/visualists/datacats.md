@@ -6,8 +6,8 @@ icons:
   - icon: facebook
     title: Facebook
     url: facebook.com/datacats
-  - icon: twitter.com/datacats
+  - icon: twitter
     title: Twitter
-    url: twitter
+    url: twitter.com/datacats
 ---
 datacats is a visual project based out of the metro-dc area. they create unique experiences by incorporating elements of glitchy 8bit systems, video synthesis, and a late 90's camcorder.
