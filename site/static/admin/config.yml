@@ -8,9 +8,9 @@ public_folder: "img/uploads"
 
 collections: # A list of collections the CMS should be able to edit
 
-  - name: "guests"
-    label: "Guests"
-    folder: "site/content/guests"
+  - name: "events"
+    label: "Events"
+    folder: "site/content/events"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
