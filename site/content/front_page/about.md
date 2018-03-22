@@ -5,4 +5,8 @@ weight: '1'
 ---
 MAGStock is a 4-day outdoor festival celebrating camping, video games, and video game music.
 
-![a night at the concert pavilion](/img/uploads/36281132506_8d09534bb5_k.jpg)
+
+
+
+
+<img src="https://magstock.org/img/uploads/magstock8.jpg" height="450"><img src="https://magstock.org/img/uploads/magstock_steve_6.jpg" width="500">
