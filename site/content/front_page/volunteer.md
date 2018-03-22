@@ -3,10 +3,8 @@ title: Volunteer
 anchor: volunteer
 weight: '20'
 ---
-Volunteering for MAGStock is easy! Our events are built on volunteer participation, so we encourage every attendee to get involved. However if it's your first year at MAGStock we recommend you NOT volunteer so that you'll have more time to enjoy all the awesomeness without needing to worry about being in a specific place at a particular time.
+Volunteering for MAGStock is easy! Our events are built on volunteer participation, so we encourage every attendee to get involved.
 
-This page will tell you what you need to do if you'd like to join the MAGStock team
+Between prepping food or checking in attendees, there's something for everyone! We don't ask a lot -- just signing up for one, 3 hour shifts makes a world of difference to us. Volunteer for enough hours and you'll even [be rewarded!](https://magstock8.uber.magfest.org/uber/static_views/stafferComps.html)
 
-Volunteers are required to purchase admission to the event, the only volunteer compensation is some items from the support swag items. And of course the thanks from your grateful organizers who love it when awesome people pitch in to do great things!
-
-If you have any questions about the above, feel free to contact <mailto:magstock@magstock.org>.
+Volunteers are required to purchase admission to the event, but once done, you're off to the races! Make sure to check 'Sign me up!' when registering so we know you're interested. If you have any questions about, feel free to contact <mailto:magstock@magstock.org>.
