@@ -1,7 +1,7 @@
 ---
 title: datacats
 image: /img/uploads/datacats_bio_pic.png
-publishDate: 03/22/2018 12:00 AM
+publishDate: 2018-03-21T00:10:00-04:00
 icons:
   - icon: facebook
     title: Facebook
