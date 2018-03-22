@@ -1,7 +1,7 @@
 ---
 title: Steel Samurai
 image: /img/uploads/steel_samurai_bio_pic.png
-publishDate: 2018-03-22T03:30:06.658Z
+publishDate: 03/26/2018 12:00 AM
 icons:
   - icon: chrome
     title: Web
