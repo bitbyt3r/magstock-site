@@ -25,7 +25,7 @@ weight: '15'
 
 ### Extra Stuff
 
-* Portables (DS, PSP)
+* Portables (Switch, Zune, [the Oregon Trail handheld game](https://hackaday.com/2018/03/14/teardown-the-oregon-trail-handheld/), etc. )
 * Cell phone
 * Camera for all the crazy moments
 * Extra money for goodies, pizza delivery, some other emergency
