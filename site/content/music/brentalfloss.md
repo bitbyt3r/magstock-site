@@ -1,7 +1,7 @@
 ---
 title: Brentalfloss
 image: /img/uploads/brentalfloss_bio_pic.png
-publishDate: 2018-03-23T00:00:00-04:00
+publishDate: 2018-03-22T00:00:00-04:00
 icons:
   - icon: chrome
     title: Web
